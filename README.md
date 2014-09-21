@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I recently graduated from [Makers Academy](http://www.makersacademy.com/), and I'm now seeking a job as a junior back-end software developer.
+I recently graduated from [Makers Academy](http://www.makersacademy.com/), and I'm now seeking a job as a junior back-end software developer. [Read my code](https://github.com/Arepo) on GitHub.
 
 Code Examples
 --
