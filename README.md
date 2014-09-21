@@ -17,9 +17,9 @@ Software Development
 
   - Ruby 1.9+
   - Rails 4+
-  - Pair programming
   - Unit testing with RSpec 3.0+
   - Test­ driven development
+  - Pair programming
   - Agile values, principles and practice
   - Object­ oriented principles and design
   
