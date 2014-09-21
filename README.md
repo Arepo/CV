@@ -32,7 +32,6 @@ Software Development
   - JavaScript, jQuery and CoffeeScript
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Stripe and Paperclip
-  - Mailgun API with RestClient
+  - Integration of APIs including Stripe, gmaps.js, and Paperclip
   - GitHub Flavoured Markdown
   - Deployment to Heroku
