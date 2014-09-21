@@ -6,6 +6,6 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/), and I
 Code Examples
 --
 
-| [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Rule the Skies](https://github.com/Arepo/rule-the-skies) |
+| [WorkMap](http://workmap.herokuapp.com/) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Rule the Skies](https://github.com/Arepo/rule-the-skies) |
 |:--------- |:----------- |:---------------- |
 | Wibble | Foo | Bar |
