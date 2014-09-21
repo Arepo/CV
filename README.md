@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a recent graduate of Makers Academy
+I recently graduated from [Makers Academy](http://www.makersacademy.com/), and I'm now seeking a job as a junior back-end software developer.
 
 Code Examples
 --
