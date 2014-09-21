@@ -30,6 +30,7 @@ Software Development
   - Integration testing with Capybara
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
+  - Unit testing with Jasmine 2.0
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Stripe, gmaps.js, and Paperclip
