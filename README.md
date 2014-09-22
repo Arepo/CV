@@ -61,9 +61,11 @@ Education
 --
 
 **University of Melbourne**
+
 MA Publishing and Editing
 March 2004–July 2005
 
 **University of Kent**
+
 BA Philosophy and English
 2000–2003 
