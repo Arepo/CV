@@ -46,8 +46,8 @@ Recent employment
 
 ### [Polity Press](http://www.politybooks.com/)
 
-**Marketing Executive: 2011-May 2014**
-**Marketing Assistant: 2007-2011**
+**Marketing Executive: 2011–May 2014**
+**Marketing Assistant: 2007–2011**
 
 A wide-ranging role at a small company, that included various responsibilities:
 
