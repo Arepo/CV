@@ -19,7 +19,7 @@ from [Makers Academy](http://www.makersacademy.com/)
 
   - Ruby 1.9+
   - Rails 4+
-  - Unit testing with RSpec 3.0+
+  - Unit testing with RSpec 3+
   - Test­ driven development
   - Pair programming
   - Agile values, principles and practice
