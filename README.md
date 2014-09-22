@@ -8,12 +8,12 @@ Code examples
 
 | [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Rule the skies](https://github.com/Arepo/rule-the-skies) |
 |:--------- |:----------- |:---------------- |
-| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0-2 AI players that never lose. | A test-driven exercise to create a simple airport model. |
+| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. | A test-driven exercise to create a simple airport model. |
 
 Software development
 --
 
-I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May-August 2014), a highly selective development 'bootcamp'. From them I learned the following skillset, which I've subsequently been honing while I look for a full-time coding role in a company that will support my development:
+I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May–August 2014), a highly selective development 'bootcamp'. From them I learned the following skillset, which I've subsequently been honing while I look for a full-time coding role in a company that will support my development:
 
 ### Primary skills
 
