@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing with little sense of direction, but having consulted and been directly involved with 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. Consequently I'm keen to become the best coder I can be, as quickly as I can become it. [Read my code](https://github.com/Arepo) on GitHub.
+I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing with little sense of direction, but having consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. Consequently I'm keen to become the best coder I can be, as quickly as I can become it. [Read my code](https://github.com/Arepo) on GitHub.
 
 Code examples
 --
@@ -41,9 +41,12 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May-A
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-Other experience 
+Other workplace experience 
 --
 
 ### [Polity Press](http://www.politybooks.com/)
+
+**Marketing Executive: 2011-May 2014
+**Marketing Assistant: 2007-2011
 
 
