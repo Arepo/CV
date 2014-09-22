@@ -46,7 +46,7 @@ Other workplace experience
 
 ### [Polity Press](http://www.politybooks.com/)
 
-**Marketing Executive: 2011-May 2014
-**Marketing Assistant: 2007-2011
+**Marketing Executive: 2011-May 2014**
+**Marketing Assistant: 2007-2011**
 
 
