@@ -34,7 +34,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May-A
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - Unit testing with Jasmine 2.0
-  - - JSON and jBuilder
+  - JSON and jBuilder
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Stripe, gmaps.js, and Paperclip
@@ -49,4 +49,6 @@ Other workplace experience
 **Marketing Executive: 2011-May 2014**
 **Marketing Assistant: 2007-2011**
 
+A wide-ranging role at a small company, that included various responsibilities:
 
+ * 
