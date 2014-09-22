@@ -33,8 +33,8 @@ from [Makers Academy](http://www.makersacademy.com/)
   - Sinatra and DataMapper
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
-  - JSON and jBuilder
   - Unit testing with Jasmine 2.0
+  - - JSON and jBuilder
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Stripe, gmaps.js, and Paperclip
