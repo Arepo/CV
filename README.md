@@ -15,7 +15,7 @@ Software Development
 
 from [Makers Academy](http://www.makersacademy.com/)
 
-### Core Skills
+### Primary Skills
 
   - Ruby 1.9+
   - Rails 4+
@@ -24,6 +24,7 @@ from [Makers Academy](http://www.makersacademy.com/)
   - Pair programming
   - Agile values, principles and practice
   - Object­ oriented principles and design
+  - Copyediting English
   
 ### Secondary Skills
 
