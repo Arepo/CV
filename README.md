@@ -69,3 +69,11 @@ March 2004–July 2005
 
 BA Philosophy and English
 2000–2003 
+
+Other achievements
+--
+
+ * Founder and admin at [Felicifia](http://felicifia.org/), a discussion forum for utilitarian ethics
+ * Founded and until recently ran an improv group now called [Oxford Comedy Deathmatch](http://www.meetup.com/Improv-workshops-with-Oxford-Comedy-Deathmatch/)
+ * Performed on the [Oxford University Salsa team](http://www.onsalsa.com/uni-salsa-team/), in the academic years 2011 and 2012
+ * Keen contract bridge player: developed an unusual bidding language with which we've beaten multiple pro teams; currently ranked in the top 10% of English players
