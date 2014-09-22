@@ -24,7 +24,7 @@ from [Makers Academy](http://www.makersacademy.com/)
   - Pair programming
   - Agile values, principles and practice
   - Object­ oriented principles and design
-  - Copyediting English
+  - Copyediting and proofreading
   
 ### Secondary Skills
 
