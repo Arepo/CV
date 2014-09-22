@@ -41,7 +41,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May-A
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-Other workplace experience 
+Recent employment
 --
 
 ### [Polity Press](http://www.politybooks.com/)
@@ -56,3 +56,8 @@ A wide-ranging role at a small company, that included various responsibilities:
  * Promoting and selling books at key academic conferences
  * Being the primary liaison for authors on publication of their book
  * Making a mean cup of tea
+
+Education
+--
+
+2000-2003
