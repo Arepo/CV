@@ -8,7 +8,7 @@ Code Examples
 
 | [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Rule the Skies](https://github.com/Arepo/rule-the-skies) |
 |:--------- |:----------- |:---------------- |
-| A team-built Rails app MVP for employers and employees in the service industry. The [live version](http://workmap.herokuapp.com/) is populated with dummy data for London. | A test-driven terminal-based version of the game, with 0-2 AI players that never lose. | A test-driven exercise to create a simple airport model. |
+| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0-2 AI players that never lose. | A test-driven exercise to create a simple airport model. |
 
 Software Development
 --
