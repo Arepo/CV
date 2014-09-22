@@ -41,4 +41,6 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May-A
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-Other experience
+### Other experience 
+
+  - 
