@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a junior level software developer , seeking a job in or around London or Oxford. [Read my code](https://github.com/Arepo) on GitHub.
+I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing, but having consulted and been directly involved with 80,000 Hours, I decided to follow their [earning to give](https://80000hours.org/earning-to-give/) path. Consequently I'm keen to become the best coder I can be, as quickly as I can become it. [Read my code](https://github.com/Arepo) on GitHub.
 
 Code Examples
 --
