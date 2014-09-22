@@ -77,4 +77,4 @@ Other achievements
  * Founded and, until starting Maker Academy, ran an improv group now called [Oxford Comedy Deathmatch](http://www.meetup.com/Improv-workshops-with-Oxford-Comedy-Deathmatch/)
  * Performed on the [Oxford University Salsa team](http://www.onsalsa.com/uni-salsa-team/), in the academic years 2011 and 2012
  * Keen contract bridge player: developed an unusual bidding language with which we've beaten multiple pro teams; currently ranked in the top 10% of English players
- * Participated in launching [80,000 Hours](https://80000hours.org/blog/), and ran their research blog, which was why I originally started learning Ruby
+ * Participated in launching [80,000 Hours](https://80000hours.org/blog/), and initially ran their research blog, which was why I originally started learning Ruby
