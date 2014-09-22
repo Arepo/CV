@@ -20,6 +20,7 @@ from [Makers Academy](http://www.makersacademy.com/)
   - Ruby 1.9+
   - Rails 4+
   - Unit testing with RSpec 3+
+  - Integration testing with Capybara
   - Test­ driven development
   - Pair programming
   - Agile values, principles and practice
@@ -30,7 +31,6 @@ from [Makers Academy](http://www.makersacademy.com/)
 
   - PostgreSQL
   - Sinatra and DataMapper
-  - Integration testing with Capybara
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - JSON and jBuilder
