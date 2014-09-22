@@ -51,4 +51,8 @@ Other workplace experience
 
 A wide-ranging role at a small company, that included various responsibilities:
 
- * 
+ * Developing and executing complete marketing plans for around 50 books per year
+ * Compiling and proofing various marketing materials including the main promotional catalogues for each year
+ * Promoting and selling books at key academic conferences
+ * Being the primary liaison for authors on publication of their book
+ * Making a mean cup of tea
