@@ -6,9 +6,9 @@ I'm a junior level software developer, seeking a job in or around London or Oxfo
 Code examples
 --
 
-| [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Rule the skies](https://github.com/Arepo/rule-the-skies) |
+| [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Agile Ventures](https://github.com/Arepo/WebsiteOne) |
 |:--------- |:----------- |:---------------- |
-| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. | A test-driven exercise to create a simple airport model. |
+| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. | An open-source project I've been contributing to - and learning a lot from - post-Makers-Academy. |
 
 Software development
 --
