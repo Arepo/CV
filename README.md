@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing with little sense of direction, but having consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, as quickly as I can become it. [Read my code](https://github.com/Arepo) on GitHub.
+I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing, enjoying the minutiae of working with text, but wanting more cognitive challenges in work. Having then consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, ASAP. [Read my code](https://github.com/Arepo) on GitHub.
 
 Code examples
 --
@@ -56,7 +56,6 @@ A wide-ranging role at a small company, that included various responsibilities:
  * Compiling and proofing various marketing materials including the main promotional catalogues for each year
  * Promoting and selling books at key academic conferences
  * Being the primary liaison for authors on publication of their book
- * Brewing a mean cup of tea
 
 Education
 --
