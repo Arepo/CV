@@ -19,8 +19,8 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
 
   - Ruby 1.9+
   - Rails 4+
-  - Unit testing with RSpec 3+
-  - Integration testing with Capybara
+  - Unit testing with RSpec
+  - Integration testing with Capybara and Cucumber
   - TestÂ­ driven development
   - Pair programming
   - Agile values, principles and practice
