@@ -25,7 +25,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
   - Pair programming
   - Agile values, principles and practice
   - ObjectÂ­ oriented principles and design
-  - Copyediting and proofreading
+  - Professional level copyediting and proofreading
   
 ### Secondary skills
 
