@@ -84,4 +84,4 @@ Meet me
 --
 
  * +44 7852 357 317
- * [jinksy@gmail.com]
+ * jinksy@gmail.com
