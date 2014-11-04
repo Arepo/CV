@@ -78,3 +78,10 @@ Other achievements
  * Performed on the [Oxford University Salsa team](http://www.onsalsa.com/uni-salsa-team/), in the academic years 2011 and 2012
  * Keen contract bridge player: developed an unusual bidding language with which we've beaten multiple pro teams; currently ranked in the top 10% of English players
  * Participated in launching [80,000 Hours](https://80000hours.org/blog/), and initially ran their research blog, which was why I originally started learning Ruby
+ * I can recite Rime of the Ancient Mariner from memory. Invaluable, I know
+
+Meet me
+--
+
+ * +44 7852 357 317
+ * [jinksy@gmail.com]
