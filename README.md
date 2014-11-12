@@ -1,4 +1,4 @@
-Sasha Cooper
+Sasha Cooper*
 ==
 
 I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing, enjoying the minutiae of working with text, but wanting more cognitive challenges in work. Having then consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, ASAP. [Read my code](https://github.com/Arepo) on GitHub.
@@ -85,3 +85,5 @@ Meet me
 
  * +44 7852 357 317
  * jinksy@gmail.com
+
+\* For the latest version of this CV, see github.com/Arepo/CV 
