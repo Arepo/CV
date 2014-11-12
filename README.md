@@ -86,4 +86,4 @@ Meet me
  * +44 7852 357 317
  * jinksy@gmail.com
 
-\* For the latest version of this CV, see github.com/Arepo/CV 
+\* For the latest version of this CV, see [github.com/Arepo/CV](github.com/Arepo/CV)
