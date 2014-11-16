@@ -17,8 +17,8 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
 
 ### Primary skills
 
-  - Ruby 1.9+
-  - Rails 4+
+  - Ruby
+  - Rails
   - Unit testing with RSpec
   - Integration testing with Capybara and Cucumber
   - TestÂ­ driven development
@@ -33,7 +33,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
   - Sinatra and DataMapper
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
-  - Unit testing with Jasmine 2.0
+  - Unit testing with Jasmine
   - JSON and jBuilder
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
