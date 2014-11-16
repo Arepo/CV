@@ -41,6 +41,11 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
+Currently learning
+--
+
+factory_girl, algorithm design, more about Cucumber, more about Javascript
+
 Recent employment
 --
 
