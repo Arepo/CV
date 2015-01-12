@@ -44,7 +44,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
 Currently learning
 --
 
-factory_girl, algorithm design, more about Cucumber, more about Javascript
+More about Rails, more about Cucumber, factory_girl, and algorithm design 
 
 I'm constantly trying to learn new technologies, so for the latest version of this CV, see (if you're not already looking at it) [github.com/Arepo/CV](https://github.com/Arepo/CV)
 
