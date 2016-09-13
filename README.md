@@ -13,9 +13,9 @@ Code examples
 Software development
 --
 
-In approximately descending order of familiarity:
+In approximately descending order:
 
-| Software competencies                      |                                       |
+| Software competencies (in approx descending order)                      |                                       |
 | ------------------------------------------ |--------------------------------------:|
    Ruby                                      |  Sinatra and DataMapper
    Rails                                     |  Version control with git and GitHub
