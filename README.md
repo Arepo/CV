@@ -17,7 +17,6 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
 
 | ### Primary skills | ### Secondary skills |
 | ------------------ |---------------------:|
-
   - Ruby  | - Sinatra and DataMapper
   - Rails | - Version control with git and GitHub
   - Spree Commerce | - JavaScript, jQuery and CoffeeScript
