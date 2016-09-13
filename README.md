@@ -10,7 +10,7 @@ Code examples
 |:--------- |:----------- |:---------------- |
 | TDDing my own Rails blog from scratch (live version [here](https://fathomless-meadow-92606.herokuapp.com/))  | An experimental spike into Ruby’s new Pakyow framework. | A TDDed terminal-based version of the game, with 0–2 AI players that never lose. |
 
-Software development
+Software competencies
 --
 
 In approximately descending order:
@@ -18,21 +18,35 @@ In approximately descending order:
 <table>
   <tr>
     <td>Ruby</td>
+    <td>Agile values and practices</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>Rails</td>
+    <td>Sinatra</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>Spree Commerce</td>
+    <td>Various other Ruby libraries</td>
+    <td>JQuery</td>
+  </tr>
+  <tr>
+    <td>RSpec & Capybara</td>
+    <td>PostgreSQL & MySQL</td>
+    <td>NodeJS</td>
+  </tr>
+  <tr>
+    <td>Fun with regexes </td>
+    <td>Version control with git and GitHub</td>
+    <td>HTML and CSS, mainly with Bootstrap</td>
+  </tr>
+  <tr>
+    <td>Test driven development</td>
+    <td>Integration of third party APIs</td>
   </tr>
 </table>
-| Software competencies                      |                                       |
-| ------------------------------------------ |--------------------------------------:|
-   Ruby                                      |  Sinatra and DataMapper
-   Rails                                     |  Version control with git and GitHub
-   Spree Commerce                            |  JavaScript, jQuery and CoffeeScript
-   RSpec & Capybara (Ruby testing libraries) |  Unit testing with Jasmine
-   Fun with regexes                          |  Integration of third party APIs
-   Agile values and practices                |  Javascript
-   Test driven development                   |  Python
-   Sinatra                                   |  Jquery
-   Various other Ruby libraries              |  NodeJS
-   PostgreSQL & MySQL                        |  CSS, mainly with Bootstrap
-  
+
 
 Currently learning
 --
