@@ -15,7 +15,7 @@ Software development
 
 I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May–August 2014), a highly selective development 'bootcamp'. From them I learned the following skillset, which I've subsequently been honing by working on open source projects with [Agile Ventures](http://www.agileventures.org) while I look for a full-time coding role in a company that will support my development:
 
-| Primary skills                             |    
+| Software competencies                      |                                       |
 | ------------------------------------------ |--------------------------------------:|
    Ruby                                      |  Sinatra and DataMapper
    Rails                                     |  Version control with git and GitHub
