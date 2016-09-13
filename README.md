@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a junior level software developer, seeking a job in or around London or Oxford. Until recently I worked in academic publishing, enjoying the minutiae of working with text, but wanting more cognitive challenges in work. Having then consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, ASAP. [Read my code](https://github.com/Arepo) on GitHub.
+I'm a junior level software developer, seeking a job in or around London. Until recently I worked in academic publishing, enjoying the minutiae of working with text, but wanting more cognitive challenges in work. Having then consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, ASAP. [Read my code](https://github.com/Arepo) on GitHub.
 
 Code examples
 --
@@ -15,25 +15,20 @@ Software development
 
 I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May–August 2014), a highly selective development 'bootcamp'. From them I learned the following skillset, which I've subsequently been honing by working on open source projects with [Agile Ventures](http://www.agileventures.org) while I look for a full-time coding role in a company that will support my development:
 
-### Primary skills
+| ### Primary skills | ### Secondary skills |
 
-  - Ruby
-  - Rails
-  - Unit testing with RSpec
-  - Integration testing with Capybara and Cucumber
-  - Test­ driven development
-  - Pair programming
-  - Agile values, principles and practice
-  - Object­ oriented principles and design
-  - Professional level copyediting and proofreading
+  - Ruby  | - Sinatra and DataMapper
+  - Rails | - Version control with git and GitHub
+  - Spree Commerce | - JavaScript, jQuery and CoffeeScript
+  - RSpec & Capybara (Ruby testing libraries) | - Unit testing with Jasmine
+  - Fun with regexes | - Integration of third party APIs
+  - Agile values and practices | - Javascript
+  - Test driven development | - Python
+  - Sinatra | - Jquery
+  - Various other Ruby libraries - | - NodeJS
+  - PostgreSQL & MySQL | - CSS, mainly with Bootstrap
   
-### Secondary skills
 
-  - PostgreSQL
-  - Sinatra and DataMapper
-  - Version control with git and GitHub
-  - JavaScript, jQuery and CoffeeScript
-  - Unit testing with Jasmine
   - JSON and jBuilder
   - HTML5, ERB
   - User authentication and authorisation with bcrypt and Devise
