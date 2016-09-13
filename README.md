@@ -86,7 +86,7 @@ Other achievements
 
  * Keen contract bridge player: currently ranked in the top 2% of English players
  * Founder and admin at [Felicifia](http://felicifia.org/), a discussion forum for utilitarian ethics
- * Founded and, until starting Makers Academy, ran an improv group now called [Oxford Comedy Deathmatch](http://www.meetup.com/Improv-workshops-with-Oxford-Comedy-Deathmatch/)
+ * Founded and, until starting Makers Academy, ran an improv group now called Oxford Comedy Deathmatch
  * Performed in the Caramelo and Oxford University salsa teams
  * Last and quite probably least, I can recite Rime of the Ancient Mariner from memory
 
