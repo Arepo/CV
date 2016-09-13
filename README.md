@@ -69,7 +69,7 @@ Maintaining the Rails/Spree/pSQL app, and preparing it for relaunch as a NodeJS 
 
 ### [ZZZ Corporate Accommodation](https://www.zzz.co.uk/) 
 
-**Full stack Developer**
+**Full stack Developer: January 2015–January 2016**
 
 On a tiny tech team (1-3 of us), maintaining and extending a smallish Rails 3(!)/MySQL app.
 
