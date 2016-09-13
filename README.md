@@ -32,10 +32,7 @@ In approximately descending order of familiarity:
 Currently learning
 --
 
-More about Rails, more about Cucumber, factory_girl, and algorithm design 
-
-I'm constantly trying to learn new technologies, so for the latest version of this CV, see (if you're not already looking at it) [github.com/Arepo/CV](https://github.com/Arepo/CV)
-
+Python,
 
 Recent employment
 --
@@ -69,7 +66,7 @@ BA Philosophy and English
 Other achievements
 --
 
- * Keen contract bridge player: developed an unusual bidding language with which we've beaten multiple pro teams; currently ranked in the top 10% of English players
+ * Keen contract bridge player: currently ranked in the top 2% of English players
  * Founder and admin at [Felicifia](http://felicifia.org/), a discussion forum for utilitarian ethics
  * Founded and, until starting Makers Academy, ran an improv group now called [Oxford Comedy Deathmatch](http://www.meetup.com/Improv-workshops-with-Oxford-Comedy-Deathmatch/)
  * Performed on the [Oxford University Salsa team](http://www.onsalsa.com/uni-salsa-team/), in the academic years 2011 and 2012
