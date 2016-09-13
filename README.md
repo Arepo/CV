@@ -1,12 +1,12 @@
 Sasha Cooper
 ==
 
-I'm a junior level software developer, seeking a job in or around London. Until recently I worked in academic publishing, enjoying the minutiae of working with text, but wanting more cognitive challenges in work. Having then consulted and been directly involved with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. The most exciting way I could think of to do that was to become the best coder I can be, ASAP. [Read my code](https://github.com/Arepo) on GitHub.
+I'm a newish software developer, seeking a job in or around London. Until recently I worked in academic publishing. Having then consulted with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. I retrained at Makers Academy, and have been working as a developer since then, mostly with Ruby, but with an ever-increasing interest in complementing it with other tech. 
 
 Code examples
 --
 
-| [WorkMap](https://github.com/federicomaffei/WorkMap) | [TicTacToe](https://github.com/Arepo/tictactoe) | [Agile Ventures](https://github.com/Arepo/WebsiteOne) |
+| [Surfdome](https://github.com/federicomaffei/WorkMap) (closed source) | [Utilitarianism blog](github.com/Arepo/rails-blog) | [Agile Ventures](https://github.com/Arepo/WebsiteOne) |
 |:--------- |:----------- |:---------------- |
 | A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. | An Agile open-source project I've been contributing to and learning from, post-Makers-Academy. Specifically I've been working on their [main website](http://www.agileventures.org). |
 
