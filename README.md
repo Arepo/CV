@@ -1,7 +1,7 @@
 Sasha Cooper
 ==
 
-I'm a newish software developer, seeking a job in London. Until recently I worked in academic publishing. Having then consulted with an unorthodox ethical careers organisation called 80,000 Hours, I decided to pursue their [earning to give](https://80000hours.org/earning-to-give/) strategy. I retrained at Makers Academy, and have been working as a developer since then, mostly with Ruby, but with an ever-increasing interest in complementing it with other tech. 
+I'm a newish software developer, seeking a job in London. Until recently I worked in academic publishing - but retrained at Makers Academy, partly from a desire for more challenge and innovation, partly due to some [unusual ethical careers advice](https://80000hours.org/articles/earning-to-give/). I've working as a developer for approx 1.5 years, mostly with Ruby, but with an ever-increasing interest in complementing it with other tech. 
 
 Code examples
 --
