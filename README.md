@@ -37,31 +37,25 @@ Python,
 Recent employment
 --
 
-### [Polity Press](http://www.politybooks.com/)
+### [Surfdome](https://www.surfdome.com/)
 
-**Marketing Executive: 2011–May 2014**
+**Backend developer: January 2015–August 2016**
 
-**Marketing Assistant: 2007–2011**
+Maintaining the Rails/Spree/pSQL app, and preparing it for relaunch as a NodeJS API. Writing complementary Sinatra endpoints.
 
-A wide-ranging role at a small company, that included various responsibilities:
+### [ZZZ Corporate Accommodation](https://www.zzz.co.uk/) 
 
- * Developing and executing complete marketing plans for around 50 books per year
- * Compiling and proofing various marketing materials including the main promotional catalogues for each year
- * Promoting and selling books at key academic conferences
- * Being the primary liaison for authors on publication of their book
+**Full stack Developer**
+
+On a tiny tech team (1-3 of us), maintaining and extending a smallish Rails 3(!)/MySQL app.
 
 Education
 --
 
-**University of Melbourne**
+**MAKERS ACADEMY** Software development course	      May–August 2014
+**UNIVERSITY OF MELBOURNE** MA Publishing & Editing	2004–2005
+**UNIVERSITY OF KENT** BA Philosophy & English	      2000–2003
 
-MA Publishing and Editing
-2004–2005
-
-**University of Kent**
-
-BA Philosophy and English
-2000–2003 
 
 Other achievements
 --
