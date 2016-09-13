@@ -32,7 +32,7 @@ In approximately descending order:
 Currently learning
 --
 
-Python,
+Python
 
 Recent employment
 --
