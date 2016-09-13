@@ -77,13 +77,13 @@ Education
 --
 
 ### Makers Academy
-Software development course	  May–August 2014
+Software development course,	  May–August 2014
 
 ### University of Melbourne
-MA Publishing & Editing         2004–2005
+MA Publishing & Editing,        2004–2005
 
 ### University of Kent
-BA Philosophy & English	        2000–2003
+BA Philosophy & English,        2000–2003
 
 
 Other achievements
