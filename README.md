@@ -17,7 +17,7 @@ I recently graduated from [Makers Academy](http://www.makersacademy.com/) (Mayâ€
 
 | Primary skills                             |    
 | ------------------------------------------ |--------------------------------------:|
-   Ruby  |  Sinatra and DataMapper
+   Ruby                                      |  Sinatra and DataMapper
    Rails                                     |  Version control with git and GitHub
    Spree Commerce                            |  JavaScript, jQuery and CoffeeScript
    RSpec & Capybara (Ruby testing libraries) |  Unit testing with Jasmine
