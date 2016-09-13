@@ -52,13 +52,13 @@ On a tiny tech team (1-3 of us), maintaining and extending a smallish Rails 3(!)
 Education
 --
 
-**Makers Academy** 
+### Makers Academy
 Software development course	  May–August 2014
 
-**University of Melbourne** 
+### University of Melbourne
 MA Publishing & Editing         2004–2005
 
-**University of Kent** 
+### University of Kent
 BA Philosophy & English	        2000–2003
 
 
