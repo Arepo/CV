@@ -6,9 +6,9 @@ I'm a newish software developer, seeking a job in London. Until recently I worke
 Code examples
 --
 
-| [Surfdome](https://github.com/federicomaffei/WorkMap) (closed source) | [Utilitarianism blog](github.com/Arepo/rails-blog) | [Agile Ventures](https://github.com/Arepo/WebsiteOne) |
+| [Utilitarianism blog](https://github.com/Arepo/rails-blog) | [Card Tagger](https://github.com/Arepo/card-tagger) | [Tic-Tac-Toe](https://github.com/Arepo/tictactoe) |
 |:--------- |:----------- |:---------------- |
-| A team-built Rails app MVP for employers and employees in the service industry. We populated the [live version](http://workmap.herokuapp.com/) with dummy data for London. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. | An Agile open-source project I've been contributing to and learning from, post-Makers-Academy. Specifically I've been working on their [main website](http://www.agileventures.org). |
+| TDDing my own blog from scratch | An experimental spike into Ruby’s new Pakyow framework. | A test-driven terminal-based version of the game, with 0–2 AI players that never lose. |
 
 Software development
 --
