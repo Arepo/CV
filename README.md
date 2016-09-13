@@ -15,6 +15,11 @@ Software development
 
 In approximately descending order:
 
+<table>
+  <tr>
+    <td>Ruby</td>
+  </tr>
+</table>
 | Software competencies                      |                                       |
 | ------------------------------------------ |--------------------------------------:|
    Ruby                                      |  Sinatra and DataMapper
