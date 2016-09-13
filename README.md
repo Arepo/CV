@@ -15,26 +15,19 @@ Software development
 
 I recently graduated from [Makers Academy](http://www.makersacademy.com/) (May–August 2014), a highly selective development 'bootcamp'. From them I learned the following skillset, which I've subsequently been honing by working on open source projects with [Agile Ventures](http://www.agileventures.org) while I look for a full-time coding role in a company that will support my development:
 
-| ### Primary skills | ### Secondary skills |
+| Primary skills | Secondary skills |
 | ------------------ |---------------------:|
-  - Ruby  | - Sinatra and DataMapper
-  - Rails | - Version control with git and GitHub
-  - Spree Commerce | - JavaScript, jQuery and CoffeeScript
-  - RSpec & Capybara (Ruby testing libraries) | - Unit testing with Jasmine
-  - Fun with regexes | - Integration of third party APIs
-  - Agile values and practices | - Javascript
-  - Test driven development | - Python
-  - Sinatra | - Jquery
-  - Various other Ruby libraries - | - NodeJS
-  - PostgreSQL & MySQL | - CSS, mainly with Bootstrap
+   Ruby  |  Sinatra and DataMapper
+   Rails |  Version control with git and GitHub
+   Spree Commerce |  JavaScript, jQuery and CoffeeScript
+   RSpec & Capybara (Ruby testing libraries) |  Unit testing with Jasmine
+   Fun with regexes |  Integration of third party APIs
+   Agile values and practices |  Javascript
+   Test driven development |  Python
+   Sinatra |  Jquery
+   Various other Ruby libraries  |  NodeJS
+   PostgreSQL & MySQL |  CSS, mainly with Bootstrap
   
-
-  - JSON and jBuilder
-  - HTML5, ERB
-  - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Stripe, gmaps.js, and Paperclip
-  - GitHub Flavoured Markdown
-  - Deployment to Heroku
 
 Currently learning
 --
