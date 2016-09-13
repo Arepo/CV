@@ -69,9 +69,8 @@ Other achievements
  * Keen contract bridge player: currently ranked in the top 2% of English players
  * Founder and admin at [Felicifia](http://felicifia.org/), a discussion forum for utilitarian ethics
  * Founded and, until starting Makers Academy, ran an improv group now called [Oxford Comedy Deathmatch](http://www.meetup.com/Improv-workshops-with-Oxford-Comedy-Deathmatch/)
- * Performed on the [Oxford University Salsa team](http://www.onsalsa.com/uni-salsa-team/), in the academic years 2011 and 2012
- * Participated in launching [80,000 Hours](https://80000hours.org/blog/), and initially ran their research blog, which was why I originally started learning Ruby
- * I can recite Rime of the Ancient Mariner from memory. Invaluable, I know
+ * Performed in the Caramelo and Oxford University salsa teams
+ * Last and quite probably least, I can recite Rime of the Ancient Mariner from memory
 
 Meet me
 --
