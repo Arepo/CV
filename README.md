@@ -76,7 +76,7 @@ On a tiny tech team (1-3 of us), maintaining and extending a smallish Rails 3(!)
 Volunteer work
 --------------
 
-I contribute when I can to [Agile Ventures](http://www.agileventures.org/)' open source projects.
+I contribute when I can to [Agile Ventures](http://www.agileventures.org/)' open source projects (2014-present).
 
 Education
 --
