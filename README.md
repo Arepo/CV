@@ -6,7 +6,7 @@ I'm a newish software developer, seeking a job in London. Until recently I worke
 Code examples
 --
 
-| [Utilitarianism blog](https://github.com/Arepo/rails-blog) | [Card Tagger](https://github.com/Arepo/card-tagger) | [Tic-Tac-Toe](https://github.com/Arepo/tictactoe) |
+| [Rails blog](https://github.com/Arepo/rails-blog) | [Card Tagger](https://github.com/Arepo/card-tagger) | [Tic-Tac-Toe](https://github.com/Arepo/tictactoe) |
 |:--------- |:----------- |:---------------- |
 | TDDing my own blog from scratch | An experimental spike into Ruby’s new Pakyow framework. | A TDDed terminal-based version of the game, with 0–2 AI players that never lose. |
 
