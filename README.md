@@ -53,7 +53,9 @@ Education
 --
 
 **MAKERS ACADEMY** Software development course	      May–August 2014
+
 **UNIVERSITY OF MELBOURNE** MA Publishing & Editing	2004–2005
+
 **UNIVERSITY OF KENT** BA Philosophy & English	      2000–2003
 
 
