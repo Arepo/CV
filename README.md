@@ -15,7 +15,7 @@ Software development
 
 In approximately descending order:
 
-| Software competencies (in approx descending order)                      |                                       |
+| Software competencies                      |                                       |
 | ------------------------------------------ |--------------------------------------:|
    Ruby                                      |  Sinatra and DataMapper
    Rails                                     |  Version control with git and GitHub
