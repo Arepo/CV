@@ -73,6 +73,11 @@ Maintaining the Rails/Spree/pSQL app, and preparing it for relaunch as a NodeJS 
 
 On a tiny tech team (1-3 of us), maintaining and extending a smallish Rails 3(!)/MySQL app.
 
+Volunteer work
+--------------
+
+I contribute when I can to [Agile Ventures](http://www.agileventures.org/)' open source projects.
+
 Education
 --
 
