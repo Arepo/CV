@@ -13,37 +13,42 @@ Code examples
 Software competencies
 --
 
-In approximately descending order:
+In approximately descending order (left to right):
 
 <table>
   <tr>
     <td>Ruby</td>
-    <td>Agile values and practices</td>
-    <td>Javascript</td>
-  </tr>
-  <tr>
     <td>Rails</td>
-    <td>Sinatra</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>Spree Commerce</td>
-    <td>Various other Ruby libraries</td>
-    <td>JQuery</td>
-  </tr>
-  <tr>
     <td>RSpec & Capybara</td>
-    <td>PostgreSQL & MySQL</td>
-    <td>NodeJS</td>
   </tr>
+
   <tr>
     <td>Fun with regexes </td>
-    <td>Version control with git and GitHub</td>
-    <td>HTML and CSS, mainly with Bootstrap</td>
-  </tr>
-  <tr>
     <td>Test driven development</td>
+    <td>Agile values and practices</td>
+  </tr>
+
+  <tr>
+    <td>Spree Commerce</td>
+    <td>Sinatra</td>
+    <td>Various other Ruby libraries</td>
+  </tr>
+
+  <tr>
+    <td>PostgreSQL & MySQL</td>
+    <td>Version control with git and GitHub</td>
     <td>Integration of third party APIs</td>
+  </tr>
+
+  <tr>
+    <td>Javascript</td>
+    <td>Python</td>
+    <td>JQuery</td>
+  </tr>
+
+  <tr>
+    <td>NodeJS</td>
+    <td>HTML and CSS, mainly with Bootstrap</td>
   </tr>
 </table>
 
