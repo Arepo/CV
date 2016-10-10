@@ -56,7 +56,7 @@ In approximately descending order (left to right):
 Currently learning
 --
 
-Python
+Python via Django
 
 Recent employment
 --
